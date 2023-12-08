@@ -1,2 +1,5 @@
 *.* linguist-language=python
 *.* linguist-language=Python
+* linguist-language=python
+* linguist-language=Python
+"Text Based Game" linguist-language=python
